@@ -1,0 +1,97 @@
+body{
+    background-color: #fff;
+    margin: 0;
+}
+
+.logo{
+    color: #ffff;
+    font-size: 2rem;
+    font-style: oblique;
+}
+.btn-drop{
+    border: none;
+    outline: none;
+margin-left: 25%;
+}
+.content{
+    
+    padding: 0 0 1% 1%;
+}
+
+.navbar{
+    background-color: black;  
+}
+.nav-item{
+     padding: 0 18px;
+    font-size: 1.25rem;
+   
+}
+.nav-items{
+    display: flex;
+    align-items: center;
+}
+.search{
+    width: 400px;
+    display: flex;
+}
+.search-box{
+    width: 80%;
+    height: 40%;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: 1px solid #d1d1d1;
+    text-transform: capitalize;
+    background: #ffff;
+    color: #a9a9a9;
+    outline: none;
+}
+.search-btn{
+  width: 20%;
+  height: 42px;
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background: #ffff;   
+}
+
+.carousel-inner{
+    margin: 2% 0;
+}
+.testimonial-image{
+    width: 100%;
+   min-height: 1;
+ 
+}
+.pics{
+    color: #fff;
+ }
+
+/*--------product-------*/
+
+#product{
+    background-color: #F7F5EB;
+}
+
+#product h2{
+    color: #13005A;
+    font-size: 3rem;
+    letter-spacing: 2px;
+    font-weight: 500;
+    padding: 2%;
+    text-align: center;
+}
+#product img{
+    width: 200px;
+    height: 200px;
+}
+.card{
+    border: none !important;
+    overflow: hidden;
+    align-items: center;
+}
+.btn{
+    background-color: black;
+    border: none;
+}
